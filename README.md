@@ -1,2 +1,2 @@
 # bill-gates
-A tribute/timeline page for Bill Gates
+A tribute web page about the founder of Microsoft, Bill Gates. It shows an image of Bill Gates and a timeline of his life and achievements. Uses Bootstrap as a CSS template and to keep the page uniform.
